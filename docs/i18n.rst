@@ -16,7 +16,7 @@ For the AtoM, here is `more information about contributing documentation transla
 User interface
 ______________
 
-In AtoM documentation, there is a `Translate section <https://accesstomemory.org/fr/docs/2.8/#translate>`__ on how to translate both database contents and user interface elements in AtoM.
+In AtoM documentation, there is a `Translate section <https://accesstomemory.org/docs/latest/#translate>`__ on how to translate both database contents and user interface elements in AtoM.
 
 Archivematica
 -------------
@@ -29,7 +29,7 @@ At the moment speaking, there is a partial translation of Archivematica translat
 User interface
 ______________
 
-We are not currently working on translations for the Archivematica UI, in date of March 2024. You can `access previous documentation for translating the AM user interaface <https://archivematica.org/fr/docs/archivematica-1.15/user-manual/translations/translations/>`.
+We are not currently working on translations for the Archivematica UI, in date of March 2024. You can `access previous documentation for translating the AM user interaface <https://archivematica.org/docs/latest/user-manual/translations/translations/>`.
 
 
 Enduro

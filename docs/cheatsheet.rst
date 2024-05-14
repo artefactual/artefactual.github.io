@@ -59,8 +59,8 @@ Here is a table with relevant URLs, gathered together as a cheastsheet.
 	  - https://github.com/artefactual/archivematica/blob/qa/1.x/README.md#installation
 	  - https://enduroproject.netlify.app/docs/
 	* - Quickstart
-	  - https://www.accesstomemory.org/fr/docs/2.8/#getting-started
-	  - https://www.archivematica.org/fr/docs/archivematica-1.15/getting-started/quick-start/quick-start/#quick-start
+	  - https://www.accesstomemory.org/docs/latest/#getting-started
+	  - https://www.archivematica.org/docs/latest/getting-started/quick-start/quick-start/#quick-start
 	  - https://enduroproject.netlify.app/docs/installation/
 	* - Release notes
 	  - https://github.com/artefactual/atom/releases
@@ -75,16 +75,16 @@ Here is a table with relevant URLs, gathered together as a cheastsheet.
 	  - https://wiki.archivematica.org/Main_Page - not currently used, for reference only
 	  - None
 	* - Documentation - user
-	  - https://www.accesstomemory.org/fr/docs/2.8/#user-manual
-	  - https://www.archivematica.org/fr/docs/archivematica-1.15/#user-manual
+	  - https://www.accesstomemory.org/docs/latest/#user-manual
+	  - https://www.archivematica.org/docs/latest/#user-manual
 	  - https://enduroproject.netlify.app/docs/user-manual/
 	* - Documentation - developer
 	  - https://www.accesstomemory.org/fr/docs/2.8/#developer-s-manual
-	  - https://www.archivematica.org/fr/docs/archivematica-1.15/#developer-manual
+	  - https://www.archivematica.org/docs/latest/#developer-manual
 	  - https://enduroproject.netlify.app/docs/development/
 	* - Documentation - API
-	  - https://www.accesstomemory.org/fr/docs/2.8/#api
-	  - https://www.archivematica.org/fr/docs/archivematica-1.15/dev-manual/api/api-overview/#api-overview
+	  - https://www.accesstomemory.org/docs/latest/#api
+	  - https://www.archivematica.org/docs/latest/dev-manual/api/api-overview/#api-overview
 	  - https://enduroproject.netlify.app/docs/api/
 	* - Architectural Decisions Record (ADR)
 	  - None for now

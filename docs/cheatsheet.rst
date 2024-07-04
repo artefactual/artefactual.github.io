@@ -60,8 +60,8 @@ Here is a table with relevant URLs, gathered together as a cheastsheet.
 	  - https://github.com/artefactual/archivematica/blob/qa/1.x/README.md#installation
 	  - https://enduro.readthedocs.io/dev-manual/devel/ (dev only)
 	* - Quickstart
-	  - https://www.accesstomemory.org/fr/docs/2.8/#getting-started
-	  - https://www.archivematica.org/fr/docs/archivematica-1.15/getting-started/quick-start/quick-start/#quick-start
+    - https://www.accesstomemory.org/docs/latest/#getting-started
+	  - https://www.archivematica.org/docs/latest/getting-started/quick-start/quick-start/#quick-start
 	  - https://enduro.readthedocs.io/user-manual/
 	* - Release notes
 	  - https://github.com/artefactual/atom/releases
@@ -76,16 +76,16 @@ Here is a table with relevant URLs, gathered together as a cheastsheet.
 	  - https://wiki.archivematica.org/Main_Page - not currently used, for reference only
 	  - None
 	* - Documentation - user
-	  - https://www.accesstomemory.org/fr/docs/2.8/#user-manual
-	  - https://www.archivematica.org/fr/docs/archivematica-1.15/#user-manual
+	  - https://www.accesstomemory.org/docs/latest/#user-manual
+	  - https://www.archivematica.org/docs/latest/#user-manual
 	  - https://enduro.readthedocs.io/user-manual/
 	* - Documentation - developer
-	  - https://www.accesstomemory.org/fr/docs/2.8/#developer-s-manual
-	  - https://www.archivematica.org/fr/docs/archivematica-1.15/#developer-manual
+	  - https://www.accesstomemory.org/docs/latest/#developer-s-manual
+	  - https://www.archivematica.org/docs/latest/#developer-manual
 	  - https://enduro.readthedocs.io/dev-manual/
 	* - Documentation - API
-	  - https://www.accesstomemory.org/fr/docs/2.8/#api
-	  - https://www.archivematica.org/fr/docs/archivematica-1.15/dev-manual/api/api-overview/#api-overview
+	  - https://www.accesstomemory.org/docs/latest/#api
+	  - https://www.archivematica.org/docs/latest/dev-manual/api/api-overview/#api-overview
 	  - None for now
 	* - Architectural Decisions Record (ADR)
 	  - None for now
@@ -93,5 +93,5 @@ Here is a table with relevant URLs, gathered together as a cheastsheet.
 	  - None for now
 	* - SlideShare
 	  - https://www.slideshare.net/accesstomemory
-	  - https://fr.slideshare.net/Archivematica/presentations
+	  - https://slideshare.net/Archivematica/presentations
 	  - None for now

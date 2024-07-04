@@ -60,7 +60,7 @@ Here is a table with relevant URLs, gathered together as a cheastsheet.
 	  - https://github.com/artefactual/archivematica/blob/qa/1.x/README.md#installation
 	  - https://enduro.readthedocs.io/dev-manual/devel/ (dev only)
 	* - Quickstart
-	  - https://www.accesstomemory.org/docs/latest/#getting-started
+    - https://www.accesstomemory.org/docs/latest/#getting-started
 	  - https://www.archivematica.org/docs/latest/getting-started/quick-start/quick-start/#quick-start
 	  - https://enduro.readthedocs.io/user-manual/
 	* - Release notes

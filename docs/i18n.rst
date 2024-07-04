@@ -24,12 +24,12 @@ Archivematica
 Documentation
 _____________
 
-At the moment speaking, there is a partial translation of Archivematica translation, but no guidelines to follow for doing one. You will find the `.po files on GitHub <https://github.com/artefactual/archivematica-docs/tree/1.16/locale>`__.
+At the moment speaking, there are some partial translations of Archivematica documentation, but no guidelines to follow for doing one. You will find the `.po files on GitHub <https://github.com/artefactual/archivematica-docs/tree/1.16/locale>`__.
 
 User interface
 ______________
 
-We are not currently working on translations for the Archivematica UI, in date of March 2024. You can `access previous documentation for translating the AM user interaface <https://archivematica.org/docs/latest/user-manual/translations/translations/>`.
+We are not currently working on translations for the Archivematica UI, in date of March 2024. You can `access previous documentation for translating the AM user interface <https://archivematica.org/docs/latest/user-manual/translations/translations/>`.
 
 
 Enduro

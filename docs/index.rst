@@ -25,10 +25,11 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
    :maxdepth: 1
    :hidden:
    
-   cheatsheet.rst
-   dependencies.rst
-   i18n.rst
    contact.rst
+   code-of-conduct
+   cheatsheet
+   dependencies
+   i18n
    
 The :doc:`Cheatsheet <cheatsheet>` is a table of links for each
 of the projects we maintain.

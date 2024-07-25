@@ -2,7 +2,7 @@
 Code of Conduct
 ===============
 
-This code of conduct applies to all Archivematica projects, including the Contributors Portal.
+This code of conduct applies to all Artefactual projects, including the Contributors Portal.
 
 Contributor Covenant Code of Conduct
 ====================================

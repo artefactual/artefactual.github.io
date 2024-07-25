@@ -16,7 +16,7 @@ to have a Portal to regroup relevant information for our main
 software projects.
 
 This Portal was first created in May 2024. It is maintained as a 
-`GitHub repo <https://www.github.com/artefactual/artefactual.github.io`__.
+`GitHub repo <https://www.github.com/artefactual/artefactual.github.io>`__.
 
 Suggestions for this Portal are welcome - you can either `open an issue <https://www.github.com/artefactual/artefactual.github.io/issues>`__
 or `send us an email <mailto:contributors@artefactual.com>`__.
@@ -35,5 +35,5 @@ of the projects we maintain.
 The page :doc:`Dependencies <dependencies>` is a set of notes on
 dependencies of the projects we maintain.
 
-The :doc:`Internationalization <i18n>` is information related to
+The :doc:`Internationalization <i18n>` page contains information related to
 the current state of the translation process for AtoM and for Archivematica.

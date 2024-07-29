@@ -14,8 +14,9 @@ This Portal was first created in May 2024.
    :maxdepth: 1
    :caption: Contents:
    
-   cheatsheet.rst
-   i18n.rst
+   code-of-conduct
+   cheatsheet
+   i18n
    
 Why this Portal
 ---------------

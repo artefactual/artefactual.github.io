@@ -36,4 +36,4 @@ The :doc:`Dependencies <dependencies>` page is a list of external
 projects and code libraries used by the applications we maintain. 
 
 The :doc:`Internationalization <i18n>` page contains information related to
-the current state of the translation process for AtoM and for Archivematica.
+the current state of the translation process for our projects.

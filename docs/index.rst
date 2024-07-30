@@ -12,7 +12,7 @@ Archivematica and Enduro.
 
 At `Artefactual <https://www.artefactual.com>`__, we are currently
 working on improving the contribution process, and we deemed it useful
-to have a Portal to regroup relevant information for our main
+to have a Portal to group relevant information for our main
 software projects.
 
 This Portal was first created in May 2024. It is maintained as a 

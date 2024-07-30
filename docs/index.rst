@@ -11,7 +11,7 @@ Welcome to the Contributors Portal for Access to Memory (AtoM),
 Archivematica and Enduro.
 
 At `Artefactual <https://www.artefactual.com>`__, we are currently
-working on improving the contribution process, and we deemed useful
+working on improving the contribution process, and we deemed it useful
 to have a Portal to regroup relevant information for our main
 software projects.
 

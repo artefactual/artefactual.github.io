@@ -29,7 +29,7 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
    dependencies.rst
    i18n.rst
    
-The :doc:`Cheatsheet <cheatsheet>`, is a table of links for each
+The :doc:`Cheatsheet <cheatsheet>` is a table of links for each
 of the projects we maintain.
 
 The page :doc:`Dependencies <dependencies>` is a set of notes on

@@ -32,7 +32,8 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
 The :doc:`Cheatsheet <cheatsheet>` is a table of links for each
 of the projects we maintain.
 
-The page :doc:`Dependencies <dependencies>` is a set of notes on
+The :doc:`Dependencies <dependencies>` page is a list of external
+projects and code libraries used by the applications we maintain. 
 dependencies of the projects we maintain.
 
 The :doc:`Internationalization <i18n>` page contains information related to

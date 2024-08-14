@@ -32,7 +32,7 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
    contact.rst
    
 You might find some insights and usefuls resources to learn 
-about digital preservation in :doc:`About digital preservation`.
+about digital preservation in :doc:`About digital preservation <digipres>`.
    
 The :doc:`Cheatsheet <cheatsheet>` is a table of links for each
 of the projects we maintain.

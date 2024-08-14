@@ -31,6 +31,9 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
    i18n.rst
    contact.rst
    
+You might find some insights and usefuls resources to learn 
+about digital preservation in :doc:`About digital preservation`.
+   
 The :doc:`Cheatsheet <cheatsheet>` is a table of links for each
 of the projects we maintain.
 

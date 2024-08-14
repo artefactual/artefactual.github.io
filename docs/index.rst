@@ -25,6 +25,7 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
    :maxdepth: 1
    :hidden:
    
+   digipres
    cheatsheet.rst
    dependencies.rst
    i18n.rst

@@ -2,41 +2,44 @@ About digital preservation
 ==========================
 
 At Artefactual, we work in the context of archival standards.
-This context informs the decisions we make for the software we develop
-and maintain. 
+This context informs the decisions we make for the software we
+develop and maintain.
 
-The resources listed here can be specific to our own context, since there
-are a diverse, broad range of archival traditions in the world. We believe
-that the list presented here is a good first step to get started in the
-digital preservation world. This list has been curated for beginners.
+The resources listed here can be specific to our own context, since
+there are a diverse, broad range of archival traditions in the
+world. We believe that the list presented here is a good first step
+to get started in the digital preservation world. This list has been
+curated for beginners.
 
 Digital preservation is for everyone
 ------------------------------------
 
-This document is on resources about digital preservation and archives in
-general. The goal is to help someone new to this world get familiar with
-the concepts and ideas, not to replace a formal education on the topic.
+This document is on resources about digital preservation and archives
+in general. The goal is to help someone new to this world get
+familiar with the concepts and ideas, not to replace a formal
+education on the topic.
 This is not meant to be exhaustive.
 
 What is digital preservation?
 -----------------------------
 
-Digital preservation is the set of actions, standards and processes involved
-in making digital or digitalized content available in the future.
+Digital preservation is the set of actions, standards and processes
+involved in making digital or digitalized content available in the
+future.
 
-Digital preservation might involve standard IT storage solutios, with a layer
-of additional needs to be met.
+Digital preservation might involve standard IT storage solutios,
+with a layer of additional needs to be met.
 
 Getting started
 ---------------
 
 The `Novice to Know-How: Digital Preservation for Beginners <know-how-beginners>`__
-from the `Digital Preservation Coalition <dpc>`__ is one of the most thorough
-yet concise training on the topic.
+from the `Digital Preservation Coalition <dpc>`__ is one of the
+most thorough yet concise training on the topic.
 It covers file formats, bitstreams, workflows for preservation,
 and how to give access to preserved digital content.
-It will help you understand the risks associated with preserving digital
-content in the long term, from the material point of view.
+It will help you understand the risks associated with preserving
+digital content in the long term, from the material point of view.
 
 Note that there is also a `DPC YouTube channel <dpc-youtube>`__.
 
@@ -49,49 +52,84 @@ metadata standards.
 Metadata standards
 ``````````````````
 
-Software developed at Artefactual is informed by the digital preservation standards, such as `PREMIS <premis>`__ and `METS <mets>`__. Both these websites contain learning materials, such as this `PREMIS list of tutorials <premis-tuto>`__ as well as `suggested readings for METS <mets-reading>`__.
+Software developed at Artefactual is informed by the digital
+preservation standards, such as `PREMIS <premis>`__ and
+`METS <mets>`__. Both these websites contain learning materials,
+such as this `PREMIS list of tutorials <premis-tuto>`__
+as well as `suggested readings for METS <mets-reading>`__.
 
-Archivematica documentation has pages on `how PREMIS is supported in the software <premis-am>`__, and similarly for `METS in Archivematica <mets-am>`__.
+Archivematica documentation has pages on
+`how PREMIS is supported in the software <premis-am>`__,
+and similarly for `METS in Archivematica <mets-am>`__.
 
 Archival content standards
 ``````````````````````````
 
-Some of the archival contents standards we are interested in includes the `Rules for Archival Description <rad>`__, the `DACS <dacs>`__ and `ISAD-G <isad-g>`__. Other standards might be of interest which are not listed here.
+Some of the archival contents standards we are interested in
+includes the `Rules for Archival Description <rad>`__, the
+`DACS <dacs>`__ and `ISAD-G <isad-g>`__. Other standards might be
+of interest which are not listed here.
 
 Technical challenges
 --------------------
 
-If you are curious about the technical challenges of preserving data and its metadata for the long term, consider reading about the `challenges faced by the CERN Digital Memory Platform <cern-challenges>`__, such as scaling, hardware failures, losing data because of software errors, and other ways that digital preservation can fail to happen. This thesis make use of Archivematica.
+If you are curious about the technical challenges of preserving data
+and its metadata for the long term, consider reading about the
+`challenges faced by the CERN Digital Memory Platform <cern-challenges>`__,
+such as scaling, hardware failures, losing data because of software
+errors, and other ways that digital preservation can fail to happen.
+This thesis make use of Archivematica.
 
 Learning to code
 ----------------
 
-You would like to learn to program, and you are wondering which languages and tools would be the most useful? Here is `one answer from the Society of American Archivists <saa-code>`__, as well as an `insightful blog post on The Signal <signal-code>`__. Both contains general technologies used in digital preservation, as well as software and tools specific to the field.
+You would like to learn to program, and you are wondering which
+languages and tools would be the most useful? Here is
+`one answer from the Society of American Archivists <saa-code>`__,
+as well as an
+`insightful blog post on The Signal <signal-code>`__. Both contains
+general technologies used in digital preservation, as well as
+software and tools specific to the field.
 
-Curious to see how programming is applied in practice? You might want to take a look at this `PyCon Ireland 2019 talk by Kieran O'Leary <pycon2019>`__, where the preservation of movie image heritage is discussed, presenting how Python was used to build tools.
+Curious to see how programming is applied in practice? You might
+want to take a look at this `PyCon Ireland 2019 talk by Kieran O'Leary <pycon2019>`__,
+where the preservation of movie image heritage is discussed,
+presenting how Python was used to build tools.
 
 The archival context
 --------------------
 
-Digital preservation is closely related to the archives world. How do they relate? Here are a few resources to help you gain a better understanding of the general context.
+Digital preservation is closely related to the archives world.
+How do they relate? Here are a few resources to help you gain
+a better understanding of the general context.
 
-In `But Storage is Cheap: Digital Preservation in the Age of Abundance <abundance>`__, Abby Smith Rumsey highlights general challenges in establishing and implementing good digital preservation practices.
+In `But Storage is Cheap: Digital Preservation in the Age of Abundance <abundance>`__,
+Abby Smith Rumsey highlights general challenges in establishing
+and implementing good digital preservation practices.
 
-The `Theory and Craft of Digital Preservation by Trevor Owens <owens-en>`__ covers history of preservation and builds bridges to new media studies, acting as a guide to intentional, deliberate preservation. This book is `also available en español <owens-es>`__, in digital open access version.
+The `Theory and Craft of Digital Preservation by Trevor Owens <owens-en>`__
+covers history of preservation and builds bridges to new media
+studies, acting as a guide to intentional, deliberate preservation.
+This book is `also available en español <owens-es>`__, in digital open access version.
 
-We would also like to highlight the `DPC Digital Preservation Handbook <dpc-handbook>`__, as well as a `repository of case studies related to Archivematica <am-case-studies>`__.
+We would also like to highlight the
+`DPC Digital Preservation Handbook <dpc-handbook>`__,
+as well as a `repository of case studies related to Archivematica <am-case-studies>`__.
 
 Talks
 -----
 
-Many interesting talks on digital preservation have been made available online, such as `this one the Learn with Scholars Portal on digital preservation and what it looks like <digipres-portal>`__, and this `video of talk by Trevor Owens on communities and platform <owens-talk>`__.
+Many interesting talks on digital preservation have been made
+vailable online, such as
+`this one the Learn with Scholars Portal on digital preservation and what it looks like <digipres-portal>`__,
+and this `video of talk by Trevor Owens on communities and platform <owens-talk>`__.
 
 And... many more!
 ------------------
 
 This list was not meant to be exhaustive - here a few other links as a conclusion:
 
-- `Unesco’s charter on the preservation of digital heritage <unesco-charter>`__ 
+- `Unesco’s charter on the preservation of digital heritage <unesco-charter>`__
 - `Sustainability of digital formats <sustain-formats>`__
 - `Levels of digital preservation <levels>`__ to help you build or assess a program
 

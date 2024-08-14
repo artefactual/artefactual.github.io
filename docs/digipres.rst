@@ -30,14 +30,21 @@ of additional needs to be met.
 Getting started
 ---------------
 
-The `Novice to Know-How: Digital Preservation for Beginners <know-how-beginners>`__ from the `Digital Preservation Coalition <dpc>`__ is one of the most thorough yet concise training on the topic. It covers file formats, bitstreams, workflows for preservation, and how to give access to preserved digital content. It will help you understand the risks associated with preserving digital content in the long term, from the material point of view.
+The `Novice to Know-How: Digital Preservation for Beginners <know-how-beginners>`__
+from the `Digital Preservation Coalition <dpc>`__ is one of the most thorough
+yet concise training on the topic.
+It covers file formats, bitstreams, workflows for preservation,
+and how to give access to preserved digital content.
+It will help you understand the risks associated with preserving digital
+content in the long term, from the material point of view.
 
 Note that there is also a `DPC YouTube channel <dpc-youtube>`__.
 
 Standards
 ---------
 
-Our work is informed both by archival content standards and by metadata standards.
+Our work is informed both by archival content standards and by
+metadata standards.
 
 Metadata standards
 ``````````````````

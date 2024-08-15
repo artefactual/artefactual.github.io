@@ -27,7 +27,7 @@ Digital preservation is the set of actions, standards and processes
 involved in making digital or digitized content available and
 authentic in the future
 
-Digital preservation might involve standard IT storage solutios,
+Digital preservation might involve standard IT storage solutions,
 with a layer of additional needs to be met.
 
 Getting started

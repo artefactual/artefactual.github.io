@@ -80,7 +80,7 @@ such as scaling, hardware failures, losing data because of software
 errors, and other ways that digital preservation can fail to happen.
 This thesis make use of Archivematica.
 
-Learning to code
+Software for digital preservation
 ----------------
 
 You would like to learn to program, and you are wondering which

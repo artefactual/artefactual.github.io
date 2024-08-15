@@ -83,7 +83,7 @@ This thesis make use of Archivematica.
 Software for digital preservation
 ----------------
 
-You would like to learn to program, and you are wondering which
+You are wondering which software are used in digital preservation? Which
 languages and tools would be the most useful? Here is
 `one answer from the Society of American Archivists`_,
 as well as an

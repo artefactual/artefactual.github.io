@@ -23,11 +23,12 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :hidden:
    
    cheatsheet.rst
    dependencies.rst
    i18n.rst
+   contact.rst
    
 The :doc:`Cheatsheet <cheatsheet>` is a table of links for each
 of the projects we maintain.

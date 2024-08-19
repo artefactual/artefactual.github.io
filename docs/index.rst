@@ -25,10 +25,14 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
    :maxdepth: 1
    :hidden:
    
+   digipres
    cheatsheet.rst
    dependencies.rst
    i18n.rst
    contact.rst
+   
+You might find some insights and usefuls resources to learn 
+about digital preservation in :doc:`About digital preservation <digipres>`.
    
 The :doc:`Cheatsheet <cheatsheet>` is a table of links for each
 of the projects we maintain.

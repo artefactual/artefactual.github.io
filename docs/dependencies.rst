@@ -25,7 +25,6 @@ There are also several smaller repositories that support Archivematica in variou
 - `Automation Tools <https://github.com/artefactual/automation-tools>`__: Scripts used to automate processing material through Archivematica
 - `Deployment <https://github.com/artefactual/deploy-pub>`__: Ansible scripts for deploying and configuring Archivematica
 - `ansible-archivematica-src <https://github.com/artefactual-labs/ansible-archivematica-src>`__: Ansible role for Archivematica package install.
-- `Deployment-Archivematica-dev <https://github.com/artefactual-labs/ansible-role-archivematica-src>`__: Ansible playbook for Archivematica github install.
 - `Fixity checker <https://github.com/artefactual/fixity>`__: Commandline tool that assists in checking fixity for AIPs stored in Archivematica Storage Service instances.
 - `METS reader/writer <https://github.com/artefactual-labs/mets-reader-writer>`__: Library to create and parse METS files.
 - `agentarchives <https://github.com/artefactual-labs/agentarchives>`__: Clients to retrieve, add, and modify records from archival management systems.

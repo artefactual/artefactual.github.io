@@ -1,5 +1,10 @@
 repos:
-  - repo: https://github.com/sphinx-contrib/sphinx-lint
-    rev: "v0.9.1"
-    hooks:
-      - id: sphinx-lint
+- repo: https://github.com/sphinx-contrib/sphinx-lint
+  rev: "v0.9.1"
+  hooks:
+  - id: sphinx-lint
+- repo: https://github.com/PyCQA/doc8
+  rev: v1.1.1
+  hooks:
+  - id: doc8
+    files: ^docs/.*\.rst$

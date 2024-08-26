@@ -81,7 +81,7 @@ errors, and other ways that digital preservation can fail to happen.
 This thesis make use of Archivematica.
 
 Software for digital preservation
-----------------
+---------------------------------
 
 You are wondering which software are used in digital preservation? Which
 languages and tools would be the most useful? Here is

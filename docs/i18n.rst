@@ -1,7 +1,9 @@
 Internationalization
 ====================
 
-One way you can get involved with our projects is through translation and localizations efforts, helping us reach a broader international audience by making meaningful, useful tools for digital preservation.
+One way you can get involved with our projects is through translation and
+localizations efforts, helping us reach a broader international audience by
+making meaningful, useful tools for digital preservation.
 
 Here are the current efforts we help maintain for each project.
 
@@ -16,7 +18,9 @@ For the AtoM, here is `more information about contributing documentation transla
 User interface
 ______________
 
-In AtoM documentation, there is a `Translate section <https://accesstomemory.org/docs/latest/#translate>`__ on how to translate both database contents and user interface elements in AtoM.
+In AtoM documentation, there is a
+`Translate section <https://accesstomemory.org/docs/latest/#translate>`__ on
+how to translate both database contents and user interface elements in AtoM.
 
 Archivematica
 -------------
@@ -24,17 +28,18 @@ Archivematica
 Documentation
 _____________
 
-At the moment speaking, there are some partial translations of Archivematica documentation, but no guidelines to follow for doing one. You will find the `.po files on GitHub <https://github.com/artefactual/archivematica-docs/tree/1.16/locale>`__.
+At the moment speaking, there are some partial translations of Archivematica
+documentation, but no guidelines to follow for doing one. You will find the
+`.po files on GitHub <https://github.com/artefactual/archivematica-docs/tree/1.16/locale>`__.
 
 User interface
 ______________
 
-We are not currently working on translations for the Archivematica UI, in date of March 2024. You can `access previous documentation for translating the AM user interface <https://archivematica.org/docs/latest/user-manual/translations/translations/>`__.
+We are not currently working on translations for the Archivematica UI, in date
+of March 2024. You can `access previous documentation for translating the AM user interface <https://archivematica.org/docs/latest/user-manual/translations/translations/>`__.
 
 
 Enduro
 ------
 
 There is no current internationalization effort for Enduro.
-
-

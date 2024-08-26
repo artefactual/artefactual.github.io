@@ -5,7 +5,8 @@ certifi==2024.7.4
 cfgv==3.4.0
 charset-normalizer==3.3.2
 distlib==0.3.8
-docutils==0.21.2
+doc8==1.1.1
+docutils==0.20.1
 filelock==3.15.4
 furo==2024.8.6
 identify==2.6.0
@@ -15,11 +16,13 @@ Jinja2==3.1.4
 MarkupSafe==2.1.5
 nodeenv==1.9.1
 packaging==24.1
+pbr==6.0.0
 platformdirs==4.2.2
 pre-commit==3.8.0
 Pygments==2.18.0
 PyYAML==6.0.2
 requests==2.32.3
+restructuredtext-lint==1.4.0
 snowballstemmer==2.2.0
 soupsieve==2.6
 Sphinx==8.0.2
@@ -30,6 +33,7 @@ sphinxcontrib-htmlhelp==2.1.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
+stevedore==5.3.0
 tomli==2.0.1
 urllib3==2.2.2
 virtualenv==20.26.3

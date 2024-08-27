@@ -20,7 +20,7 @@ You will then be able to use `make html` to build the HTML version of the websit
 ## Contributing
 
 At the moment speaking and for the foreseeable future, we expect that contributions will be made by Artefactual staff from time to time.
-We do not expect any external contributor to make a PR, but you are welcome to `file an issue <https://github.com/artefactual/artefactual.github.io/issues>`__ if you have general questions about contributing.
+We do not expect any external contributor to make a PR, but you are welcome to [file an issue](https://github.com/artefactual/artefactual.github.io/issues) if you have general questions about contributing.
 
 ### pre-commit
 

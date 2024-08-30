@@ -29,3 +29,9 @@ html_static_path = ['_static']
 
 
 html_title = "Contributors Portal"
+
+html_theme_options = {
+    "source_repository": "https://github.com/artefactual/artefactual.github.io/",
+    "source_branch": "main",
+    "source_directory": "docs/",
+}

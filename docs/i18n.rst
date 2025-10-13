@@ -35,9 +35,11 @@ documentation, but no guidelines to follow for doing one. You will find the
 User interface
 ______________
 
-We are not currently working on translations for the Archivematica UI, in date
-of March 2024. You can `access previous documentation for translating the AM user interface <https://archivematica.org/docs/latest/user-manual/translations/translations/>`__.
-
+We not longer have a workflow to submit UI translations to the Archivematica
+project. You can still translate the UI locally using this
+`localization workflow <https://gist.github.com/sevein/7a58080779ea1318bbfe65040a5b4ca3>`__.
+Please note that this workflow is not actively updated. If you find discrepancies,
+contact us at `contributors@artefactual.com <mailto:contributors@artefactual.com>`__.
 
 Enduro
 ------

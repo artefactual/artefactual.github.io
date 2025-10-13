@@ -14,7 +14,9 @@ release = '0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+        'sphinx_copybutton',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -29,3 +31,9 @@ html_static_path = ['_static']
 
 
 html_title = "Contributors Portal"
+
+html_theme_options = {
+    "source_repository": "https://github.com/artefactual/artefactual.github.io/",
+    "source_branch": "main",
+    "source_directory": "docs/",
+}

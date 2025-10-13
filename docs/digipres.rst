@@ -81,7 +81,7 @@ errors, and other ways that digital preservation can fail to happen.
 This thesis make use of Archivematica.
 
 Software for digital preservation
-----------------
+---------------------------------
 
 You are wondering which software are used in digital preservation? Which
 languages and tools would be the most useful? Here is
@@ -120,20 +120,22 @@ Talks
 -----
 
 Many interesting talks on digital preservation have been made
-vailable online, such as
-this one on the `Learn with Scholars Portal on digital preservation and what it looks like`_,
+vailable online, such as this one on the
+`Learn with Scholars Portal on digital preservation and what it looks like`_,
 and this `video of talk by Trevor Owens on communities and platform`_.
 
 And... many more!
 ------------------
 
-This list was not meant to be exhaustive - here a few other links as a conclusion:
+This list was not meant to be exhaustive - here a few other links as a
+conclusion:
 
 - `Unesco’s charter on the preservation of digital heritage`_
 - `Sustainability of digital formats`_
 - `Levels of digital preservation`_ to help you build or assess a program
 
-If we missed something that was helpful to you on your digital preservation journey, consider `opening an issue to add it`_.
+If we missed something that was helpful to you on your digital preservation
+journey, consider `opening an issue to add it`_.
 
 .. _`Novice to Know-How: Digital Preservation for Beginners`: https://dpc.getlearnworlds.com/course/novice-to-know-how-beginners
 .. _`Digital Preservation Coalition`: https://www.dpconline.org/digipres

@@ -14,11 +14,12 @@ Archivematica
 Archivematica consists of several projects working together.
 
 - `Archivematica <https://github.com/artefactual/archivematica>`__: Main repository containing the user-facing dashboard, task manager MCPServer and clients scripts for the MCPClient.
-	- and the related `Archivematica documentation <https://github.com/artefactual/archivematica-docs>`__ repository.
+  - and the related `Archivematica documentation <https://github.com/artefactual/archivematica-docs>`__ repository.
 - `Storage Service <https://github.com/artefactual/archivematica-storage-service>`__: Responsible for moving files to Archivematica for processing, and from Archivematica into storage
-	- and the associated `Storage Service Documentation <https://github.com/artefactual/archivematica-storage-service-docs>`__
-	
-There are also several smaller repositories that support Archivematica in various ways. In general, you will not need these to develop on Archivematica.
+  - and the associated `Storage Service Documentation <https://github.com/artefactual/archivematica-storage-service-docs>`__
+
+There are also several smaller repositories that support Archivematica in
+various ways. In general, you will not need these to develop on Archivematica.
 
 - `AM client <https://github.com/artefactual-labs/amclient>`__ : Archivematica API client module
 - `AMmcpc <https://github.com/artefactual-labs/ammcpc>`__ : Archivematica MediaConch policy check wrapper

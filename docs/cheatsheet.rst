@@ -17,7 +17,8 @@ You might want to take a look at the `Artefactual YouTube channel <https://www.y
 By Project
 ----------
 
-Below are tables for each project with relevant URLs, gathered together here as cheatsheets.
+Below are tables for each project with relevant URLs, gathered together here as
+cheatsheets.
 
 * :ref:`Archivematica`
 * :ref:`AtoM`

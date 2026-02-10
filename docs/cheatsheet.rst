@@ -39,6 +39,8 @@ Archivematica
     - https://github.com/artefactual/archivematica
   * - The why and what of the project
     - https://www.archivematica.org/
+  * - Project Roadmap
+    - https://github.com/archivematica/Issues/wiki/Archivematica-Roadmap
   * - README
     - https://github.com/artefactual/archivematica/blob/qa/1.x/README.md
   * - License
@@ -85,12 +87,14 @@ AtoM
     - https://github.com/artefactual/atom
   * - The why and what of the project
     - https://www.accesstomemory.org/
+  * - Project Roadmap
+    - https://github.com/artefactual/atom/wiki/AtoM-Roadmap
   * - README
     - https://github.com/artefactual/atom/blob/qa/2.x/README.md
   * - License
     - https://github.com/artefactual/atom/blob/qa/2.x/LICENSE
   * - Code of Conduct
-    - https://wiki.accesstomemory.org/wiki/Resources/User_forum#Code_of_conduct
+    - https://github.com/artefactual/atom/blob/qa/2.x/CODE_OF_CONDUCT.md
   * - Contributing guide
     - https://github.com/artefactual/atom/blob/qa/2.x/CONTRIBUTING.md
   * - Issues
@@ -131,12 +135,14 @@ Enduro
     - https://github.com/artefactual-sdps/enduro
   * - The why and what of the project
     - https://enduro.readthedocs.io/
+  * - Project Roadmap
+    - None for now
   * - README
     - https://github.com/artefactual-sdps/enduro/blob/main/README.md
   * - License
     - https://github.com/artefactual-sdps/enduro/blob/main/LICENSE
   * - Code of Conduct
-    - We currently defer to the Archivematica Code of Conduct: https://github.com/artefactual/archivematica/blob/qa/1.x/CODE_OF_CONDUCT.md
+    - https://contributors.artefactual.com/code-of-conduct.html 
   * - Contributing guide
     - https://github.com/artefactual-sdps/enduro/blob/main/CONTRIBUTING.md
   * - Issues
@@ -146,7 +152,7 @@ Enduro
   * - Quickstart
     - https://enduro.readthedocs.io/user-manual/
   * - Release notes
-    - None for now
+    - https://github.com/artefactual-sdps/enduro/blob/main/CHANGELOG.md
   * - Users group or mailing list
     - None for now
   * - Wiki
@@ -156,7 +162,7 @@ Enduro
   * - Documentation - developer
     - https://enduro.readthedocs.io/dev-manual/
   * - Documentation - API
-    - None for now
+    - https://enduro.readthedocs.io/dev-manual/api/
   * - Architectural Decisions Record (ADR)
     - None for now
   * - SlideShare

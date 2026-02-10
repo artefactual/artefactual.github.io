@@ -29,6 +29,7 @@ or `send us an email <mailto:contributors@artefactual.com>`__.
    code-of-conduct
    cheatsheet
    dependencies
+   guidelines
    digipres
    i18n
 
@@ -40,6 +41,10 @@ of the projects we maintain.
 
 The :doc:`Dependencies <dependencies>` page is a list of external
 projects and code libraries used by the applications we maintain.
+
+The :doc:`Developer guidelines <guidelines>` page has tips for
+using git in the open source projects, as well as commands to help
+get started with contributing. Suggestions for additions are welcome.
 
 The :doc:`Internationalization <i18n>` page contains information related to
 the current state of the translation process for our projects.

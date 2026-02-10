@@ -9,15 +9,15 @@ guidance on getting started with contributing to AtoM, Archivematica or Enduro.
 Useful resources on using Git
 -----------------------------
 
-Interactive Git Tutorial: https://learngitbranching.js.org
-Git Advanced Cheatsheet: https://dev.to/said7388/git-cheatsheet-that-will-make-you-a-master-in-git-11l4
-[SWTM-2088_Atlassian-Git-Cheatsheet.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/158b49d1-4ef0-411d-8143-8c92876358b1/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
-Atlassian’s Git Tutorials: https://www.atlassian.com/git/tutorials
+* `Interactive Git Tutorial`_
+* `Git Advanced Cheatsheet`_
+* `Atlassian Git Cheatsheet`_
+* `Atlassian Git Tutorials`_ 
 
 Opening pull requests
 ----------------------
 
-Artefactual uses [GitHub's pull request feature](https://help.github.com/articles/using-pull-requests)
+Artefactual uses `GitHub's pull request feature`_
 for code review. Every change being submitted to an Artefactual project should
 be submitted as a pull request to the appropriate repository, and the
 appropriate branch - in general, to the latest development branch
@@ -38,15 +38,15 @@ Consider the following:
 * Squash any commits that fix test errors (such as linting errors)
 
 For more information on creating quality pull requests and managing
-commit history, watch [Alya Abbott's Fosdem 2026 presentation](https://fosdem.org/2026/schedule/event/L7ERNP-prs-maintainers-will-love/).
+commit history, watch `Alya Abbott's Fosdem 2026 presentation`_.
 
 
 Here are a few blog posts from around the web that offer more help and
 overviews using pull requests:
 
-* The GitHub blog has a post on ["how to write the perfect pull request"](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
-* The SpringSource community blog has [useful a post on pull requests](https://spring.io/blog/2010/12/21/social-coding-in-spring-projects)
-* Otaku, Cedric's Blog has a [quick guide to pull requests](https://www.beust.com/weblog/a-quick-guide-to-pull-requests/)
+* The GitHub blog has a post on `"how to write the perfect pull request"`_
+* The SpringSource community blog has `useful a post on pull requests`_
+* Otaku, Cedric's Blog has a `quick guide to pull requests`_
 
 Useful commands for gettting started
 ------------------------------------
@@ -59,15 +59,18 @@ You can use a tool called ``ripgrep`` which is a variant of ``grep``.
 
 Usage:
 
-``rg --vimgrep --type-not xml --smart-case <keyword/pattern to search>``
+.. code-block:: bash
+
+  rg --vimgrep --type-not xml --smart-case < keyword/pattern to search >
 
 If you use this frequently, you can save this as an alias of you choice by
 adding this to your ``~/.zshrc`` or ``~/.bashrc`` files.
 
-```
-alias ack="rg --vimgrep --type-not xml --smart-case" 
-# Usage: ack <keyword/pattern to search>
-```
+.. code-block:: bash
+
+  alias ack="rg --vimgrep --type-not xml --smart-case" 
+  # Usage: ack <keyword/pattern to search>
+
 
 Setting up some local aliases
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -84,10 +87,10 @@ directory including hidden ones with: ls -a. Generally, the .bashrc file can
 be found in our root directory, so we'll change directories there, and then
 find it:
 
-```
-cd
-ls -a
-```
+.. code-block:: bash
+
+  cd
+  ls -a
 
 You can open the file with nano, which is a simple text editor inside
 your terminal:
@@ -102,10 +105,22 @@ yourself some aliases, it is critical they are unique so they will not
 interfere with existing commands! Here is an example of some set up in a
 Docker environment for AtoM:
 
-.. code-block:: 
+.. code-block:: bash
+
     alias DockerUp='cd ~/Desktop/atom-docker/atom && export COMPOSE_FILE="$PWD/docker/docker-compose.dev.yml" && docker compose up -d'
     alias DS='docker compose exec atom php -d memory_limit=-1 symfony'
     alias DockerDown='cd ~Desktop/atom-docker/atom && docker compose down'
     alias DockerLoad='bash /home/username/Deskop/atom-docker/load-demo-docker.sh'
     alias DC='docker compose exec'
     alias DockerSQL='docker compose exec percona mysql -u atom -p atom;'
+
+.. _`Novice to Know-How: Digital Preservation for Beginners`: https://dpc.getlearnworlds.com/course/novice-to-know-how-beginners
+.. _`GitHub's pull request feature`: https://help.github.com/articles/using-pull-requests
+.. _`Atlassian Git Cheatsheet`: https://s3-us-west-2.amazonaws.com/secure.notion-static.com/158b49d1-4ef0-411d-8143-8c92876358b1/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
+.. _`Atlassian Git Tutorials`: https://www.atlassian.com/git/tutorials
+.. _`Git Advanced Cheatsheet`: https://dev.to/said7388/git-cheatsheet-that-will-make-you-a-master-in-git-11l4
+.. _`Interactive Git Tutorial`: https://learngitbranching.js.org
+.. _`Alya Abbott's Fosdem 2026 presentation`: https://fosdem.org/2026/schedule/event/L7ERNP-prs-maintainers-will-love/
+.. _`"how to write the perfect pull request"`: https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+.. _`useful a post on pull requests`: https://spring.io/blog/2010/12/21/social-coding-in-spring-projects
+.. _`quick guide to pull requests`: https://www.beust.com/weblog/a-quick-guide-to-pull-requests/

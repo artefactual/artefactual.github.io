@@ -20,7 +20,7 @@ packaging==25.0
 pbr==7.0.3
 platformdirs==4.5.1
 pre-commit==4.5.1
-pygments==2.19.2
+pygments==2.20.0
 pyyaml==6.0.3
 requests==2.33.0
 restructuredtext-lint==2.0.2

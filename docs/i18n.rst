@@ -36,7 +36,7 @@ User interface
 ______________
 
 We no longer have a workflow to submit UI translations to the Archivematica
-project. Sometimes we get PRs where we cannot verify the transflation.
+project. Sometimes we get PRs, but there are delays with code review for new languages.
 You can still translate the UI locally using this
 `localization workflow <https://gist.github.com/replaceafill/028d0e53326c077746e52b5d5eb7ffbb>`__.
 Please note that this workflow is not actively updated. If you find

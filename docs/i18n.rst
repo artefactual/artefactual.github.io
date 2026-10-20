@@ -35,12 +35,17 @@ documentation, but no guidelines to follow for doing one. You will find the
 User interface
 ______________
 
-We not longer have a workflow to submit UI translations to the Archivematica
-project. You can still translate the UI locally using this
+We no longer have a workflow to submit UI translations to the Archivematica
+project. Sometimes we get PRs where we cannot verify the transflation.
+You can still translate the UI locally using this
 `localization workflow <https://gist.github.com/replaceafill/028d0e53326c077746e52b5d5eb7ffbb>`__.
 Please note that this workflow is not actively updated. If you find
 discrepancies, contact us at
 `contributors@artefactual.com <mailto:contributors@artefactual.com>`__.
+
+Available and untested user translations:
+
+`Turkish translation <https://github.com/artefactual/archivematica/pull/2440>`__
 
 Enduro
 ------

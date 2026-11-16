@@ -8,7 +8,7 @@ charset-normalizer==3.4.4
 distlib==0.4.*
 doc8==2.0.0
 docutils==0.21.2
-filelock==3.20.3
+filelock==4.2.1
 furo==2025.12.19
 identify==2.6.16
 idna==3.15
